@@ -1,0 +1,252 @@
+name_en,name_ar,alpha_2_code,alpha_3_code,numeric_code
+Afghanistan,افغانستان,AF,AFG,4
+Åland Islands,جزر اولند,AX,ALA,248
+Albania,البانيا,AL,ALB,8
+Algeria,الجزائر,DZ,DZA,12
+American Samoa,ساموا الامريكية,AS,ASM,16
+Andorra,اندورا,AD,AND,20
+Angola,انغولا,AO,AGO,24
+Anguilla,انغويلا,AI,AIA,660
+Antarctica,القارة القطبية الجنوبية,AQ,ATA,10
+Antigua and Barbuda,انتيغوا وباربودا,AG,ATG,28
+Argentina,الارجنتين,AR,ARG,32
+Armenia,ارمينيا,AM,ARM,51
+Aruba,اروبا,AW,ABW,533
+Australia,اوستراليا,AU,AUS,36
+Austria,النمسا,AT,AUT,40
+Azerbaijan,اذربيجان,AZ,AZE,31
+Bahamas,باهاماس,BS,BHS,44
+Bahrain,البحرين,BH,BHR,48
+Bangladesh,بنغلاديش,BD,BGD,50
+Barbados,باربادوس,BB,BRB,52
+Belarus,بيلاروس,BY,BLR,112
+Belgium,بلجيكا,BE,BEL,56
+Belize,بليز,BZ,BLZ,84
+Benin,بنين,BJ,BEN,204
+Bermuda,برمودا,BM,BMU,60
+Bhutan,بوتان,BT,BTN,64
+"Bolivia, Plurinational State of",بوليفيا,BO,BOL,68
+"Bonaire, Sint Eustatius and Saba",الجزر الكاريبية النيديرلاندية,BQ,BES,535
+Bosnia and Herzegovina,البوسنة والهرسك,BA,BIH,70
+Botswana,بوتسوانا,BW,BWA,72
+Bouvet Island,جزيرة بوفيه,BV,BVT,74
+Brazil,برازيل,BR,BRA,76
+British Indian Ocean Territory,اقليم المحيط الهندى البريطانى,IO,IOT,86
+Brunei Darussalam,بروناى,BN,BRN,96
+Bulgaria,بلغاريا,BG,BGR,100
+Burkina Faso,بوركينا فاسو,BF,BFA,854
+Burundi,بوروندى,BI,BDI,108
+Cambodia,كمبوديا,KH,KHM,116
+Cameroon,الكاميرون,CM,CMR,120
+Canada,كندا,CA,CAN,124
+Cape Verde,الراس الاخضر,CV,CPV,132
+Cayman Islands,جزر كايمان,KY,CYM,136
+Central African Republic,جمهورية افريقيا الوسطى,CF,CAF,140
+Chad,تشاد,TD,TCD,148
+Chile,تشيلى,CL,CHL,152
+China,الصين,CN,CHN,156
+Christmas Island,جزيرة عيد الميلاد,CX,CXR,162
+Cocos (Keeling) Islands,جزر كوكس,CC,CCK,166
+Colombia,كولومبيا,CO,COL,170
+Comoros,جزر القمر,KM,COM,174
+Congo,جمهورية الكونغو,CG,COG,178
+"Congo, the Democratic Republic of the",جمهورية الكونغو الديمقراطية,CD,COD,180
+Cook Islands,جزر كوك,CK,COK,184
+Costa Rica,كوستاريكا,CR,CRI,188
+Croatia,كرواتيا,HR,HRV,191
+Cuba,كوبا,CU,CUB,192
+Curaçao,كوراساو,CW,CUW,531
+Cyprus,قبرص,CY,CYP,196
+Czech Republic,التشيك,CZ,CZE,203
+Denmark,دنمارك,DK,DNK,208
+Djibouti,جيبوتى,DJ,DJI,262
+Dominica,دومينيكا,DM,DMA,212
+Dominican Republic,جمهورية الدومينيكان,DO,DOM,214
+Ecuador,الاكوادور,EC,ECU,218
+Egypt,مصر,EG,EGY,818
+El Salvador,السلفادور,SV,SLV,222
+Equatorial Guinea,غينيا الاستوائية,GQ,GNQ,226
+Eritrea,اريتريا,ER,ERI,232
+Estonia,استونيا,EE,EST,233
+Ethiopia,اثيوبيا,ET,ETH,231
+Falkland Islands (Malvinas),جزر فوكلاند,FK,FLK,238
+Faroe Islands,جزر فارو,FO,FRO,234
+Fiji,فيجى,FJ,FJI,242
+Finland,فينلاندا,FI,FIN,246
+France,فرنسا,FR,FRA,250
+French Guiana,غويانا الفرنسية,GF,GUF,254
+French Polynesia,بولينزيا الفرنسية,PF,PYF,258
+French Southern Territories,اراض فرنسية جنوبية و انتارتيكية,TF,ATF,260
+Gabon,الغابون,GA,GAB,266
+Gambia,غامبيا,GM,GMB,270
+Georgia,جورجيا,GE,GEO,268
+Germany,المانيا,DE,DEU,276
+Ghana,غانا,GH,GHA,288
+Gibraltar,جبل طارق,GI,GIB,292
+Greece,اليونان,GR,GRC,300
+Greenland,جرينلاند,GL,GRL,304
+Grenada,غرينادا,GD,GRD,308
+Guadeloupe,غوادلوب,GP,GLP,312
+Guam,غوام,GU,GUM,316
+Guatemala,جواتيمالا,GT,GTM,320
+Guernsey,غيرنزى,GG,GGY,831
+Guinea,غينيا,GN,GIN,324
+Guinea-Bissau,غينيا بيساو,GW,GNB,624
+Guyana,غيانا,GY,GUY,328
+Haiti,هايتى,HT,HTI,332
+Heard Island and McDonald Islands,جزيرة هيرد وجزر ماكدونالد,HM,HMD,334
+Holy See (Vatican City State),الفاتيكان,VA,VAT,336
+Honduras,هوندوراس,HN,HND,340
+Hong Kong,هونج كونج,HK,HKG,344
+Hungary,المجر,HU,HUN,348
+Iceland,ايسلاندا,IS,ISL,352
+India,الهند,IN,IND,356
+Indonesia,اندونيسيا,ID,IDN,360
+"Iran, Islamic Republic of",ايران,IR,IRN,364
+Iraq,العراق,IQ,IRQ,368
+Ireland,جمهورية ايرلندا,IE,IRL,372
+Isle of Man,جزيرة مان,IM,IMN,833
+Israel,اسرائيل,IL,ISR,376
+Italy,ايطاليا,IT,ITA,380
+Ivory Coast,ساحل العاج,CI,CIV,384
+Jamaica,جامايكا,JM,JAM,388
+Japan,اليابان,JP,JPN,392
+Jersey,جيرزى,JE,JEY,832
+Jordan,الاردن,JO,JOR,400
+Kazakhstan,كازاخستان,KZ,KAZ,398
+Kenya,كينيا,KE,KEN,404
+Kiribati,كيريباتى,KI,KIR,296
+"Korea, Democratic People's Republic of",كوريا الشمالية,KP,PRK,408
+"Korea, Republic of",كوريا الجنوبية,KR,KOR,410
+Kosovo,كوسوفو,XK,XKX,95
+Kuwait,الكويت,KW,KWT,414
+Kyrgyzstan,قيرغيزستان,KG,KGZ,417
+Lao People's Democratic Republic,لاوس,LA,LAO,418
+Latvia,لاتفيا,LV,LVA,428
+Lebanon,لبنان,LB,LBN,422
+Lesotho,ليسوتو,LS,LSO,426
+Liberia,ليبيريا,LR,LBR,430
+Libya,ليبيا,LY,LBY,434
+Liechtenstein,ليختنشتاين,LI,LIE,438
+Lithuania,ليتوانيا,LT,LTU,440
+Luxembourg,لوكسمبورغ,LU,LUX,442
+Macao,ماكاو,MO,MAC,446
+"Macedonia, the former Yugoslav Republic of",جمهورية مقدونيا,MK,MKD,807
+Madagascar,مدغشقر,MG,MDG,450
+Malawi,مالاوى,MW,MWI,454
+Malaysia,ماليزيا,MY,MYS,458
+Maldives,جزر المالديف,MV,MDV,462
+Mali,مالى,ML,MLI,466
+Malta,مالطا,MT,MLT,470
+Marshall Islands,جزر مارشال,MH,MHL,584
+Martinique,مارتينيك,MQ,MTQ,474
+Mauritania,موريتانيا,MR,MRT,478
+Mauritius,موريشيوس,MU,MUS,480
+Mayotte,مايوت,YT,MYT,175
+Mexico,المكسيك,MX,MEX,484
+"Micronesia, Federated States of",ولايات ميكرونيسيا المتحدة,FM,FSM,583
+"Moldova, Republic of",مولدوڤا,MD,MDA,498
+Monaco,موناكو,MC,MCO,492
+Mongolia,منغوليا,MN,MNG,496
+Montenegro,الجبل الاسود,ME,MNE,499
+Montserrat,مونتسرات,MS,MSR,500
+Morocco,المغرب,MA,MAR,504
+Mozambique,موزامبيق,MZ,MOZ,508
+Myanmar,بورما,MM,MMR,104
+Namibia,ناميبيا,NA,NAM,516
+Nauru,ناورو,NR,NRU,520
+Nepal,نيبال,NP,NPL,524
+Netherlands,هولندا,NL,NLD,528
+Netherlands Antilles,جزر الأنتيل الهولندية,AN,ANT,530
+New Caledonia,كاليدونيا الجديدة,NC,NCL,540
+New Zealand,نيوزيلندا,NZ,NZL,554
+Nicaragua,نيكاراغوا,NI,NIC,558
+Niger,النيجر,NE,NER,562
+Nigeria,نيجيريا,NG,NGA,566
+Niue,نييوى,NU,NIU,570
+Norfolk Island,جزيرة نورفولك,NF,NFK,574
+Northern Mariana Islands,جزر ماريانا الشمالية,MP,MNP,580
+Norway,النرويج,NO,NOR,578
+Oman,سلطنة عمان,OM,OMN,512
+Pakistan,باكستان,PK,PAK,586
+Palau,بالاو,PW,PLW,585
+Palestine,فلسطين,PS,PSE,275
+Panama,بنما,PA,PAN,591
+Papua New Guinea,بابوا غينيا الجديدة,PG,PNG,598
+Paraguay,باراغواى,PY,PRY,600
+Peru,بيرو,PE,PER,604
+Philippines,الفلبين,PH,PHL,608
+Pitcairn,جزر بيتكيرن,PN,PCN,612
+Poland,بولندا,PL,POL,616
+Portugal,برتغال,PT,PRT,620
+Puerto Rico,پويرتو ريكو,PR,PRI,630
+Qatar,قطر,QA,QAT,634
+Réunion,لا ريونيون,RE,REU,638
+Romania,رومانيا,RO,ROU,642
+Russia,روسيا,RU,RUS,643
+Rwanda,رواندا,RW,RWA,646
+Saint Barthélemy,سان بارتليمى,BL,BLM,652
+"Saint Helena, Ascension and Tristan da Cunha",سانت هيلينا و اسينشين وتريستان دا كونا,SH,SHN,654
+Saint Kitts and Nevis,سانت كيتس ونيفيس,KN,KNA,659
+Saint Lucia,سانت لوسيا,LC,LCA,662
+Saint Martin (French part),سانت مارتن الفرنسية,MF,MAF,663
+Saint Pierre and Miquelon,سان بيير وميكلون,PM,SPM,666
+Saint Vincent and the Grenadines,سانت فنسنت والجرينادين,VC,VCT,670
+Samoa,ساموا,WS,WSM,882
+San Marino,سان مارينو,SM,SMR,674
+Sao Tome and Principe,ساو تومى وبرينسيب,ST,STP,678
+Saudi Arabia,السعودية,SA,SAU,682
+Senegal,السنغال,SN,SEN,686
+Serbia,صيربيا,RS,SRB,688
+Seychelles,سيشل,SC,SYC,690
+Sierra Leone,سيراليون,SL,SLE,694
+Singapore,سنغافورة,SG,SGP,702
+Sint Maarten (Dutch part),سينت مارتن,SX,SXM,534
+Slovakia,سلوفاكيا,SK,SVK,703
+Slovenia,سلوفينيا,SI,SVN,705
+Solomon Islands,جزر سليمان,SB,SLB,90
+Somalia,الصومال,SO,SOM,706
+South Africa,جنوب افريقيا,ZA,ZAF,710
+South Georgia and the South Sandwich Islands,جورجيا الجنوبية وجزر ساندويتش الجنوبية,GS,SGS,239
+South Sudan,جنوب السودان,SS,SSD,728
+Spain,اسبانيا,ES,ESP,724
+Sri Lanka,سريلانكا,LK,LKA,144
+Sudan,السودان,SD,SDN,736
+Suriname,سورينام,SR,SUR,740
+Svalbard and Jan Mayen,سفالبارد ويان ماين,SJ,SJM,744
+Swaziland,سوازيلاند,SZ,SWZ,748
+Sweden,السويد,SE,SWE,752
+Switzerland,سويسرا,CH,CHE,756
+Syrian Arab Republic,سوريا,SY,SYR,760
+Taiwan,تايوان,TW,TWN,158
+Tajikistan,طاجيكستان,TJ,TJK,762
+"Tanzania, United Republic of",تنزانيا,TZ,TZA,834
+Thailand,تايلاند,TH,THA,764
+Timor-Leste,تيمور الشرقية,TL,TLS,626
+Togo,توغو,TG,TGO,768
+Tokelau,توكلو,TK,TKL,772
+Tonga,تونغا,TO,TON,776
+Trinidad and Tobago,ترينيداد و توباجو,TT,TTO,780
+Tunisia,تونس,TN,TUN,788
+Turkey,تركيا,TR,TUR,792
+Turkmenistan,تركمانستان,TM,TKM,795
+Turks and Caicos Islands,جزر توركس وكايكوس,TC,TCA,796
+Tuvalu,توفالو,TV,TUV,798
+Uganda,اوغندا,UG,UGA,800
+Ukraine,اوكرانيا,UA,UKR,804
+United Arab Emirates,الامارات العربية المتحدة,AE,ARE,784
+United Kingdom,المملكه المتحده,GB,GBR,826
+United States,امريكا,US,USA,840
+United States Minor Outlying Islands,جزر امريكا الصغيرة البعيده,UM,UMI,581
+Uruguay,اوروجواى,UY,URY,858
+Uzbekistan,اوزبكستان,UZ,UZB,860
+Vanuatu,فانواتو,VU,VUT,548
+"Venezuela, Bolivarian Republic of",فنزويلا,VE,VEN,862
+Vietnam,فييتنام,VN,VNM,704
+"Virgin Islands, British",الجزر العذراء البريطانية,VG,VGB,92
+"Virgin Islands, U.S.",جزر العذراء الامريكية,VI,VIR,850
+Wallis and Futuna,والس وفوتونا,WF,WLF,876
+Western Sahara,الصحراء الغربية,EH,ESH,732
+Yemen,اليمن,YE,YEM,887
+Zambia,زامبيا,ZM,ZMB,894
+Zimbabwe,زيمبابوى,ZW,ZWE,716
